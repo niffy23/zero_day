@@ -1,1 +1,1 @@
-hello world
+This project is about learning how to use virtual machine,vagraant,uname  and setting up my github account. though i already have one..but learning what virtual machine and vagrant is use for is a really great thing to know..cause i had zero knowledge of it.
